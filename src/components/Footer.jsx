@@ -72,11 +72,11 @@ const Footer = () => {
                   Head Office
                 </h5>
                 <p className="head__office">
-                  123 ZindaBazar, Sylhet, Bangladesh
+                  Baghpat, U.P, India
                 </p>
-                <p className="head__office">Phone: +088 123 456 789 </p>
-                <p className="head__office">Email: example@gmail.com</p>
-                <p className="head__office">Office Time: 10am - 6pm</p>
+                <p className="head__office">Phone: +91 9315513864 </p>
+                <p className="head__office">Email: 2128manoj@gmail.com</p>
+                <p className="head__office">Office Time: 9am - 6pm</p>
               </div>
             </Col>
 
