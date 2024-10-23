@@ -19,7 +19,6 @@ const Home = () => {
     <Helmet title="Home">
       <section className="p-0 hero__slider__section">
         <HeroSlider />
-
         <div className="hero__form">
           <Container className="">
             <Row className="form__row mx-0">
