@@ -33,16 +33,10 @@ const About = () => {
                   We Are Committed To Provide Safe Ride Solutions
                 </h2>
                 <p className="section__description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Eaque, totam tenetur porro quasi earum, fugiat cum et
-                  explicabo fuga odit voluptates optio, maxime ducimus quae.
-                  Velit repellat totam delectus nemo.{' '}
+                Discover hassle-free car rentals with our easy-to-use platform. Whether you need a car for a few hours, a day, or longer, we’ve got you covered with affordable rates and flexible rental periods.{' '}
                 </p>
                 <p className="section__description">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Eaque, totam tenetur porro quasi earum, fugiat cum et
-                  explicabo fuga odit voluptates optio, maxime ducimus quae.
-                  Velit repellat totam delectus nemo.{' '}
+                Discover hassle-free car rentals with our easy-to-use platform. Whether you need a car for a few hours, a day, or longer, we’ve got you covered with affordable rates and flexible rental periods.{' '}
                 </p>
 
                 <div className=" mt-4 d-flex align-items-center gap-3 ">
@@ -51,7 +45,7 @@ const About = () => {
                   </span>
                   <div>
                     <h6 className="section__subtitle">Need Any Help?</h6>
-                    <h4 className="about__phone">+088 1234567898</h4>
+                    <h4 className="about__phone">+91 9315513864</h4>
                   </div>
                 </div>
               </div>

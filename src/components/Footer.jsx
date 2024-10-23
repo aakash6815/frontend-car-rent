@@ -43,10 +43,7 @@ const Footer = () => {
                   </Link>
                 </h1>
                 <p className="footer__logo-content">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Nulla id ipsa neque harum quod quae reiciendis et quasi illum
-                  alias. Vero ipsam a omnis! Totam nam eaque sequi voluptates
-                  doloribus?
+                Discover hassle-free car rentals with our easy-to-use platform. Whether you need a car for a few hours, a day, or longer, we’ve got you covered with affordable rates and flexible rental periods. nemo.
                 </p>
               </div>
             </Col>
@@ -107,8 +104,8 @@ const Footer = () => {
             <Col>
               <div className="footer__bottom">
                 <p className="section__description pt-4 fw-bold text-center d-flex align-items-center justify-content-center gap-1">
-                  <i class="ri-copyright-line"></i> Copyright 2022, developed by
-                  <span>Muhibur Rahman</span>. All Rights Reserved
+                  <i class="ri-copyright-line"></i> Copyright 2024, developed by
+                  <span>Aakash Sharma</span>. All Rights Reserved
                 </p>
               </div>
             </Col>
